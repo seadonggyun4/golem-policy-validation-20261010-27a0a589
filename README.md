@@ -1,2 +1,2 @@
-# Synthetic policy fixture
-Synthetic changed line for alert mapping.
+# Synthetic fixture
+Changed candidate context fixture.
